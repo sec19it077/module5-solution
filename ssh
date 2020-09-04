@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" lang="en">
+        <meta name="keywords" content="HTML, CSS">
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+        <link rel="stylesheet" type="text/css" href="Style.css">
+    </head>
+    <body>
+       
+            <h1>Our Menu</h1>
+     
+        <section class="chicken">
+            <div id="chicken">
+                Chicken
+            </div>  
+                <p id="Chicken">We promise to provide professional back office support for your business allowing you to focus on your core functions resulting in significant cost savings and improved business productivity and efficiency..</p>
+        </section>
+        <section class="beef">
+            <div id='beef'>
+              Beef
+            </div>
+                <p id="beef">We promise to provide professional back office support for your business allowing you to focus on your core functions resulting in significant cost savings and improved business productivity and efficiency..</p>
+        </section>
+        <section class='pork'>
+            <div id='pork'>
+                Pork
+            </div>
+                <p id="pork">We promise to provide professional back office support for your business allowing you to focus on your core functions resulting in significant cost savings and improved business productivity and efficiency..</p>
+        </section>
+      
+    </body>
+
+
+</html>
